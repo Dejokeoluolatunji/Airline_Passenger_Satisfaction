@@ -1,1 +1,3 @@
 # Airline_Passenger_Satisfaction
+
+# This dataset contains an airline passenger satisfaction survey.  Different factors(Gender, Customer Type, Age, Type of Travel, class, flight distance, Inflight wifi service, Departure/Arrival time convenient, Ease of Online booking, Gate location, Food and drink, Online boarding, Seat comfort, Inflight entertainment, On-board service, Leg room service, Baggage handling, Check-in service, Inflight service, Cleanliness, Departure Delay in Minutes, Arrival Delay in Minutes) were tested to determine what factors are highly correlated to a satisfied or dissatisfied passenger.
